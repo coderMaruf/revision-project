@@ -1,0 +1,32 @@
+{
+  "name": "restraurant-website",
+  "version": "1.0.0",
+  "description": "Backend Practice Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderMaruf/revision-project.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "nodejs",
+    "expressjs",
+    "ejs"
+  ],
+  "author": "Aashiek-Maruf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderMaruf/revision-project/issues"
+  },
+  "homepage": "https://github.com/coderMaruf/revision-project#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1"
+  }
+}
